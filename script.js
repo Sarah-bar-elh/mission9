@@ -76,4 +76,8 @@ document.getElementById('btn-correction').addEventListener('click', function () 
   document.getElementById('btn-effacer').addEventListener('click', function () {
     alert("Le formulaire a été réinitialisé.");
   });
-  
+
+  // bonton retour  
+    document.getElementById("btn-retour").addEventListener("click", function() {
+        window.location.href = "https://sarah-bar-elh.github.io/newbst_sio/mission.html";
+    });

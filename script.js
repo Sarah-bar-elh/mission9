@@ -79,5 +79,5 @@ document.getElementById('btn-correction').addEventListener('click', function () 
 
   // bonton retour  
     document.getElementById("btn-retour").addEventListener("click", function() {
-        window.location.href = "https://sarah-bar-elh.github.io/newbst_sio/mission.html";
+        window.location.href = "https://sarah-bar-elh.github.io/newbst_sio/page1.html";
     });
